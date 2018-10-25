@@ -1,0 +1,55 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "yUlH3Pi1wsEQFBDDWBUjJKRkd3M=",
+			"path": "github.com/adshao/go-binance",
+			"revision": "e9a4ac01ca4814807bd4fb573da2129564cb23b3",
+			"revisionTime": "2018-10-12T00:45:56Z"
+		},
+		{
+			"checksumSHA1": "0EhLvZ6Og9HYqJtCc2Dzs1EgM30=",
+			"path": "github.com/bitly/go-simplejson",
+			"revision": "0c965951289cce37dec52ad1f34200fefc816777",
+			"revisionTime": "2017-10-23T17:51:54Z"
+		},
+		{
+			"checksumSHA1": "TAXd73uN0hLjwdGGGNgnmF6iC0k=",
+			"path": "github.com/google/go-cmp/cmp",
+			"revision": "875f8df8b7965f1eac1098d36d677f807ac0b49e",
+			"revisionTime": "2018-09-11T19:48:14Z"
+		},
+		{
+			"checksumSHA1": "oLBV7th4sxzxzmf1b91NVVbdOfI=",
+			"path": "github.com/google/go-cmp/cmp/internal/diff",
+			"revision": "875f8df8b7965f1eac1098d36d677f807ac0b49e",
+			"revisionTime": "2018-09-11T19:48:14Z"
+		},
+		{
+			"checksumSHA1": "kYtvRhMjM0X4bvEjR3pqEHLw1qo=",
+			"path": "github.com/google/go-cmp/cmp/internal/function",
+			"revision": "875f8df8b7965f1eac1098d36d677f807ac0b49e",
+			"revisionTime": "2018-09-11T19:48:14Z"
+		},
+		{
+			"checksumSHA1": "OQQ56f38ikfmG2Zd3lUlk4LUBIw=",
+			"path": "github.com/google/go-cmp/cmp/internal/value",
+			"revision": "875f8df8b7965f1eac1098d36d677f807ac0b49e",
+			"revisionTime": "2018-09-11T19:48:14Z"
+		},
+		{
+			"checksumSHA1": "+WvAFQYdExJNUjKDAtuSs8O7ELg=",
+			"path": "github.com/gorilla/websocket",
+			"revision": "76e4896901ef89d253d69b528d3701dd146fe2ae",
+			"revisionTime": "2018-10-12T02:01:31Z"
+		},
+		{
+			"checksumSHA1": "dhcoAs6YFyvXiG55mx5WDxg+/4g=",
+			"path": "github.com/shopspring/decimal",
+			"revision": "cd690d0c9e2447b1ef2a129a6b7b49077da89b8e",
+			"revisionTime": "2018-07-09T20:31:17Z"
+		}
+	],
+	"rootPath": "github.com/yeouchien/go-pivotpoint"
+}
